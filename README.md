@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Hi, I'm Ozren!
 
-You can use the [editor on GitHub](https://github.com/ozzy1989/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can find my LinkedIn account here: https://www.linkedin.com/in/ozren-petrovic-711764104/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am doing this to help my brother land a normal job.
 
-### Markdown
+### Professional Career
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a 31 year old Project Manager at NCR. Married, my daughther is 1 year old. I also like to row in my spare time.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ozzy1989/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The priorities in my life are 
+# Family
+## Work
+### Sport
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Would you like to reach out? Check out my [email](ozren.petrovic.89@gmail.com) or [call me](facebook.com) and I'll be happy to discuss.
